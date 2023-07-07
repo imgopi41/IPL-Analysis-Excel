@@ -1,7 +1,7 @@
 
 **I. Descirption**
 
-This is simple Cricket Analysis on Indian Premier League tournament implemented by using Ms Excel. In this project i have analyzed all the awards by each team individually from First to Present Seasons.
+This is simple Cricket Analysis on Indian Premier League tournament implemented by using Ms Excel. In this project i have analyzed all the awards by each team individually from First to Present Seasons. I have already created project on IPL Analysis using Power BI. The same data is used in executing this project, In Ms Excel i have kept the visualization simple.
 
 **II. Technology Stack**
 
