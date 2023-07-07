@@ -43,4 +43,14 @@ Orange, Purple Cap by the teams and Fair play awards is also shown.
 
 ![Dashboard image](https://github.com/imgopi41/IPL-Analysis-Excel/assets/99798157/279d3e86-43a1-4a6b-8757-1c0d43b47b70)
 
+**VI. Applications & Future enhancements:**
+
+An Interactive personalized Dashboards and reports of IPL Analysis. This type of Dashboards shows you the improvement and growth. We can 
+easily Analyze & work on improvements on particular things. This is Widely used to show the reports in Pictorial format in all the 
+Domains, Here in this project Cricket, This kind of Analytics were used around Globally to Analyze the Data.
+
+**IPL Analysis Dashboard, This Project is also uploaded in LinkedIn,**
+
+**Check out Project in LinkedIn:**
+
 
