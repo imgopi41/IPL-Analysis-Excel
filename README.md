@@ -41,7 +41,8 @@ Orange, Purple Cap by the teams and Fair play awards is also shown.
 
 **V. Demo**
 
-![Dashboard image](https://github.com/imgopi41/IPL-Analysis-Excel/assets/99798157/279d3e86-43a1-4a6b-8757-1c0d43b47b70)
+![Dashboard](https://github.com/imgopi41/IPL-Analysis-Excel/assets/99798157/4f337018-71d7-40b0-a217-c14d1333049d)
+
 
 **VI. Applications & Future enhancements:**
 
